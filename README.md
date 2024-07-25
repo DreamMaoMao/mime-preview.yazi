@@ -1,6 +1,6 @@
 # mime-preview.yazi
 
-Enables the prview folder on the right pane of yazi to render theme colors. very quickly with almost no performance loss.
+Enables the preview folder on the right pane of yazi to render theme colors. very quickly with almost no performance loss.
 
 
 # Install 
