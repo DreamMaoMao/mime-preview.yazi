@@ -1,5 +1,3 @@
-local M = {}
-
 local ext_mime_map = {
 	["AppImage"] = "application/x-executable",
 	["dsf"] = "audio/x-dsf",
@@ -56,6 +54,7 @@ local ext_mime_map = {
 	["emma"] = "application/emma+xml",
 	["emotionml"] = "application/emotionml+xml",
 	["epub"] = "application/epub+zip",
+	["mobi"] = "application/x-mobipocket-ebook",
 	["exi"] = "application/exi",
 	["exp"] = "application/express",
 	["finf"] = "application/fastinfoset",
